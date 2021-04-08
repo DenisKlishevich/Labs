@@ -1,0 +1,12 @@
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe.config
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\obj\Debug\Lab7.exe
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\bin\Debug\Lab7.exe.config
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\bin\Debug\Lab7.exe
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\bin\Debug\Lab7.pdb
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\obj\Debug\Lab7.exe
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.1\Lab7\obj\Debug\Lab7.pdb

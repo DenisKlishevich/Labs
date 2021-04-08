@@ -1,0 +1,35 @@
+Полное имя класса:Lab4.Triangle
+Обычный класс
+Базовый класс - Lab4.Geometric_figure
+*** Поля класса: ***
+Double height
+Double base_tr
+System.String name
+Int32 num_angle
+*** Свойства класса: ***
+Double Height
+Double Base_tr
+System.String Name
+Int32 Num_angle
+*** Методы класса: ***
+Double get_Height()
+Void set_Height(Double)
+Double get_Base_tr()
+Void set_Base_tr(Double)
+Void Information()
+Void Area()
+Void SaveClass(System.String)
+Void SaveObject(System.String)
+Lab4.Triangle LoadObject(System.String)
+Void Serialize(System.String)
+Lab4.Triangle Deserialize(System.String)
+System.String ToString()
+System.String get_Name()
+Void set_Name(System.String)
+Int32 get_Num_angle()
+Void set_Num_angle(Int32)
+Void Speak()
+Void Area()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()

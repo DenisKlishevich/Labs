@@ -1,0 +1,6 @@
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\БГУиР\ООП\LabC#\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

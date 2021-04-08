@@ -1,0 +1,12 @@
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+A:\Учёба\Переподготовка БГУИР\2_ООП\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\БГУиР\ООП\Лабы Романыч\Lab7\Lab7.3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
